@@ -141,6 +141,7 @@ article p {
     margin-top: 1rem;
     font-size: 1rem;
     color: var(--dark-grayish-blue);
+    font-weight: 300;
 }
 
 article button {
@@ -301,7 +302,8 @@ article button:hover {
     }
 
     article p {
-        font-size: 0.88rem;
+        font-size: 1.09rem;
+        line-height: 1.5rem;
     }
 
     .title-text {
