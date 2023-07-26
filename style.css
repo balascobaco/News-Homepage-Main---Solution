@@ -330,16 +330,16 @@ article button:hover {
     }
 
     .new-posts h2 {
-        font-size: 2.4rem;
+        font-size: 2.6rem;
     }
 
     .new-posts h3 {
-        font-size: 1.3rem;
+        font-size: 1.7rem;
     }
 
     .new-posts p {
-        font-size: 1rem;
-        line-height: 1.2rem;
+        font-size: 1.3rem;
+        line-height: 1.5rem;
     }
 
     .primary-navigation li:hover {
